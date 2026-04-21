@@ -28,7 +28,7 @@ Para atender aos requisitos da disciplina, a solução utiliza uma arquitetura h
 *   **Rastreamento de Cadeia de Custódia:** Visualização do histórico do produto através dos diversos pontos de transbordo.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagens:** Java
+- **Linguagens:** Java (SpringBoot)
 - **Bancos de Dados:** 
     - PostgreSQL 15+
     - Neo4j 5.x (Graph Data Science library)
